@@ -16,6 +16,7 @@ public class Pwd {
 		catch (Exception e ) {
 			e.printStackTrace();
            //System.out.println(e+" :after throw handled by catch");
+			//git checking
 		}
 	}
 
